@@ -14,5 +14,5 @@ int main()
     // Prints sum 
     cout << firstNumber << " + " <<  secondNumber << " = " << sumOfTwoNumbers;     
 
-    return 0;
+    return 1;
 }
